@@ -20,7 +20,6 @@ price_per_person:   6 €
 # Authors - optional
 authors:
     - Laurent Wiesel <wiesel.laurent@gmail.com>
-    - Robin Hood
 
 # Ingredients
 ingredients:
