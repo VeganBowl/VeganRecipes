@@ -24,15 +24,15 @@ authors:
 
 # Ingredients
 ingredients:
-    - ['2', 'oignons blancs']
-    - ['2', 'gousses d'ail']
-    - ['2', 'pommes de terre']
-    - ['1 boîte', 'tomates concassées']
-    - ['1 verre', 'lentilles corail']
-    - ['1 verre', 'vin blanc sec']
-    - ['2 cc', 'paprika']
-    - ['', 'sirop d'agave / sucre']
-    - ['', 'piment']
+    - ["2", "oignons blancs"]
+    - ["2", "gousses d'ail"]
+    - ["2", "pommes de terre"]
+    - ["1 boîte", "tomates concassées"]
+    - ["1 verre", "lentilles corail"]
+    - ["1 verre", "vin blanc sec"]
+    - ["2 cc", "paprika"]
+    - ["", "sirop d'agave / sucre"]
+    - ["", "piment"]
 
 ---
 
